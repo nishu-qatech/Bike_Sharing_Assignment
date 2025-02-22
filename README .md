@@ -60,7 +60,7 @@ The following files are present inside datasets folder:
 <a href="https://github.com/nishu-qatech"> Nishu Kumari's GitHub link </a>
 
 ## Connect with me on LinkedIn:-
-<a href="https://www.linkedin.com/in/g-ravikiran-650926274//">  My LinkedIn  </a>
+<a href="https://www.linkedin.com/in/nishu-srivastava-95819474//">  My LinkedIn  </a>
 
 ## Assignment Python code and Subjective Questions and Answers Presentation in PDF
 <a href= "https://github.com/nishu-qatech/Bike_Sharing_Assignment"> Click to view the Python code </a>   <b> / </b> <a href= "">  Click to view Subjective Questions Presentation in PDF </a>
